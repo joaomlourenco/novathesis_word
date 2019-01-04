@@ -1,4 +1,4 @@
-# novathesis_word
+# NOVAthesis Word templates
 
 Word templates for the Master and PhD thesis at FCT-NOVA (www.fct.unl.pt).
 
