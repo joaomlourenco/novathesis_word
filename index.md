@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to “NOVAthesis_word” repository
 
-You can use the [editor on GitHub](https://github.com/joaomlourenco/novathesis_word/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+These template(s) attempt respect the layout required by FCT-NOVA and to mimic the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are two identical versions, one for monographs weitten in Portuguese, the other for monographs written in English.  Pleas enote that each version includes the covers (and back covers) for both the PhD and MSc dissertations, and you must delete the ones that do not apply to your document.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joaomlourenco/novathesis_word/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**If you aim at high-quallity professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis tempalte](https://joaomlourenco.github.io/novathesis/).**
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+These templates are provided _as is_ with no support at all.  However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word/discussions) is open and users may interact and help each other there.
