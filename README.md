@@ -1,4 +1,4 @@
-<img src="novathesis-logo-grey-white-1000x197v3.1.jpg" width="600"/>
+<img src="novathesis-logo-grey-white-v3.1-1000x201.jpg" width="600"/>
 <!-- ![NOVAthesis logo](NOVAthesisFiles/Images/novathesis-logo.jpg) -->
 
 <!-- # “novathesis” LaTeX template -->
