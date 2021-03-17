@@ -17,7 +17,7 @@
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
 
-## Welcome to the “NOVAthesis_word” repository
+## Welcome to the “NOVAthesis_word” template
 
 These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
