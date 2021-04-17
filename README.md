@@ -1,7 +1,5 @@
-<img src="https://joaomlourenco.github.io/novathesis_word/./novathesis_word-logo-grey-white-v3.3-921x195.jpg" width="600"/>
-<!-- ![NOVAthesis logo](NOVAthesisFiles/Images/novathesis-logo.jpg) -->
+<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg"/>
 
-<!-- # “novathesis” LaTeX template -->
 
 [![GitHub forks](https://img.shields.io/github/forks/joaomlourenco/novathesis_word.svg?style=social&label=Fork)](https://github.com/joaomlourenco/novathesis_word)
 [![GitHub stars](https://img.shields.io/github/stars/joaomlourenco/novathesis_word.svg?style=social&label=Star)](https://github.com/joaomlourenco/novathesis_word)
@@ -17,14 +15,25 @@
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
 
-## Welcome to the “NOVAthesis_word” repository
+## Welcome to the “NOVAthesis_word” template
 
-These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
+This template attempt to respect the layout of the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).
 
-There are two identical versions, one for monographs written in Portuguese, the other for monographs written in English.  Please note that each version includes the covers (and back covers) for both the PhD and MSc dissertations, and you must delete the ones that do not apply to your document.
+There are two similar versions: 
 
-**If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis tempalte](https://joaomlourenco.github.io/novathesis/).**
+* one for monographs written in Portuguese, and 
+* another for monographs written in English.  
+
+Please note that each version includes the covers (and back covers) for both the Ph.D. and M.Sc. dissertations, and you must delete the ones that do not apply to your document.
+
+**If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
+
+<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/>
+
 
 ### Support or Contact
 
 These templates are provided _as is_ with no support at all.  However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.
+
+You may also join the [NOVAthesis Facebook group](https://www.facebook.com/groups/novathesis) at [https://www.facebook.com/groups/novathesis](https://www.facebook.com/groups/novathesis) and ask for help/support there.  Remember to **make it clear that you are using the Word version of the template**.
