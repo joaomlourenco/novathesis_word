@@ -11,6 +11,8 @@ baseurl     : "" # the subpath of your site, e.g. /blog
 url         : ""
 date_format : "%Y-%m-%d"
 show_downloads : true
+zip_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.zip
+tar_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.tar.gz
 
 ################################
 # Analytics Settings
