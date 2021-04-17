@@ -18,7 +18,8 @@
 
 This template attempt to respect the layout of the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).
 
-There are two identical versions: 
+There are two similar versions: 
+
 * one for monographs written in Portuguese, and 
 * another for monographs written in English.  
 
