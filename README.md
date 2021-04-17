@@ -25,10 +25,10 @@ There are two similar versions:
 
 Please note that each version includes the covers (and back covers) for both the Ph.D. and M.Sc. dissertations, and you must delete the ones that do not apply to your document.
 
-**If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis tempalte](https://joaomlourenco.github.io/novathesis/).**
+**If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
 ### Support or Contact
 
 These templates are provided _as is_ with no support at all.  However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.
 
-You may also join the [NOVAthesis Facebook group](https://www.facebook.com/groups/novathesis) at https://www.facebook.com/groups/novathesis.
+You may also join the [NOVAthesis Facebook group](https://www.facebook.com/groups/novathesis) at [https://www.facebook.com/groups/novathesis](https://www.facebook.com/groups/novathesis) and ask for help/support there.  Remember to **make it clear that you are using the Word version of the template**.
