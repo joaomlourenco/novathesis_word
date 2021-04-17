@@ -8,7 +8,7 @@ description: A Word template for thesis, dissertations and similar monograph-lik
 author: João M. Lourenço
 
 # logo
-logo: novathesis_word-logo-grey-white-v3.3-921x195.jpg
+logo: novathesis-word-logo-v5.svg
 
 show_downloads: true
 theme: jekyll-theme-minimal
