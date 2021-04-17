@@ -1,15 +1,11 @@
 ################################
 # Site Settings
 ################################
-lang        : "en"
 logo        : novathesis-word-logo-v5.svg
 title       : ""
 description : "A Word template for thesis, dissertations and similar monograph-like documents at FCT-NOVA"
 author      : João M. Lourenço
 email       : joao.lourenco@fct.unl.pt
-baseurl     : "" # the subpath of your site, e.g. /blog
-url         : ""
-date_format : "%Y-%m-%d"
 show_downloads : true
 zip_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.zip
 tar_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.tar.gz
