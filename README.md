@@ -28,8 +28,26 @@ Please note that each version includes the covers (and back covers) for both the
 
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
-<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/></td>
+    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/></td>
+  </tr>
+</tbody>
+</table>
+
+<!-- <img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/> -->
 
 
 ### Support or Contact
