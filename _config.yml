@@ -11,13 +11,13 @@ zip_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/mas
 tar_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.tar.gz
 
 ################################
-# Analytics Settings
-################################
-google_analytics: G-MCRPNKMY9J
-google_tag_manager: G-MCRPNKMY9J
-
-################################
 # Theme Settings
 ################################
 
 theme: jekyll-theme-minimal
+
+################################
+# Analytics Settings
+################################
+google_analytics: G-MCRPNKMY9J
+google_tag_manager: G-MCRPNKMY9J
