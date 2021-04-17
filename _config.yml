@@ -1,15 +1,25 @@
-# Name of website
-title: novathesis word template
+################################
+# Site Settings
+################################
+lang        : "en"
+logo        : novathesis-word-logo-v5.svg
+title       : ""
+description : "A Word template for thesis, dissertations and similar monograph-like documents at FCT-NOVA"
+author      : João M. Lourenço
+email       : joao.lourenco@fct.unl.pt
+baseurl     : "" # the subpath of your site, e.g. /blog
+url         : ""
+date_format : "%Y-%m-%d"
+show_downloads : true
 
-# Description of website
-description: A Word template for thesis, dissertations and similar monograph-like documents at FCT-NOVA
-
-# Your name to show in the footer
-author: João M. Lourenço
-
-# logo
-logo: novathesis-word-logo-v5.svg
-
-show_downloads: true
-theme: jekyll-theme-minimal
+################################
+# Analytics Settings
+################################
 google_analytics: G-MCRPNKMY9J
+google_tag_manager: G-MCRPNKMY9J
+
+################################
+# Theme Settings
+################################
+
+theme: jekyll-theme-minimal
