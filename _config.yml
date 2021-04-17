@@ -1,6 +1,6 @@
-################################
+#################################
 # Site Settings
-################################
+#################################
 logo        : novathesis-word-logo-v5.svg
 title       : "&nbsp;"
 description : "A Word template for thesis, dissertations and similar monograph-like documents at FCT-NOVA"
@@ -11,14 +11,14 @@ github:
     zip_url     : https://github.com/joaomlourenco/novathesis_word/zipball/master
     tar_url     : https://github.com/joaomlourenco/novathesis_word/tarball/master
 
-################################
+#################################
 # Theme Settings
-################################
+#################################
 
 theme: jekyll-theme-minimal
 
-################################
+#################################
 # Analytics Settings
-################################
+#################################
 google_analytics: G-MCRPNKMY9J
 google_tag_manager: G-MCRPNKMY9J
