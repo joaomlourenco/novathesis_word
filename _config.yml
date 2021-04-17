@@ -7,8 +7,8 @@ description : "A Word template for thesis, dissertations and similar monograph-l
 author      : João M. Lourenço
 email       : joao.lourenco@fct.unl.pt
 show_downloads : true
-zip_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.zip
-tar_url     : https://github.com/joaomlourenco/novathesis/archive/refs/heads/master.tar.gz
+zip_url     : https://github.com/joaomlourenco/novathesis_word/zipball/master
+tar_url     : https://github.com/joaomlourenco/novathesis_word/tarball/master
 
 ################################
 # Theme Settings
