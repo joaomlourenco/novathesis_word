@@ -1,4 +1,4 @@
-<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" width="600"/>
+<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" width="550"/>
 <!-- ![NOVAthesis logo](NOVAthesisFiles/Images/novathesis-logo.jpg) -->
 
 <!-- # “novathesis” LaTeX template -->
