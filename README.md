@@ -1,4 +1,4 @@
-<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg"/>
+<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" width="400"/>
 
 
 [![GitHub forks](https://img.shields.io/github/forks/joaomlourenco/novathesis_word.svg?style=social&label=Fork)](https://github.com/joaomlourenco/novathesis_word)
