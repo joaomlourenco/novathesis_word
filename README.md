@@ -17,7 +17,7 @@
 
 ## Welcome to the “NOVAthesis_word” template
 
-This template attempt to respect the layout of the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).
+These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
 There are two similar versions: 
 
@@ -32,9 +32,10 @@ Please note that each version includes the covers (and back covers) for both the
 <kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
 <kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/></kbd>
 
+**If you aim at high-quality professional-level results, you should really try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
-### Support or Contact
+### Getting Help
 
-These templates are provided _as is_ with no support at all.  However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.
+**These templates are provided _as is_ with no support at all.  **
 
-You may also join the [NOVAthesis Facebook group](https://www.facebook.com/groups/novathesis) at [https://www.facebook.com/groups/novathesis](https://www.facebook.com/groups/novathesis) and ask for help/support there.  Remember to **make it clear that you are using the Word version of the template**.
+However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
