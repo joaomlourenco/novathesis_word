@@ -29,8 +29,8 @@ Please note that each version includes the covers (and back covers) for both the
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
 
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/NOVAthesisFiles/Images/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-phd-en.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-msc-en.svg" border="1" width="100"/></kbd>
 
 **If you aim at high-quality professional-level results, you should really try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
