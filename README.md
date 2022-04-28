@@ -26,6 +26,15 @@ There are two similar versions:
 
 Please note that each version includes the covers (and back covers) for both the Ph.D. and M.Sc. dissertations, and you must delete the ones that do not apply to your document.
 
+### Getting Help
+
+**These templates are provided _as is_ with no support at all.  **
+
+However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
+
+
+### NOVAthesis LaTeX Template
+
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
 
@@ -33,9 +42,3 @@ Please note that each version includes the covers (and back covers) for both the
 <kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-msc-en.svg" border="1" width="100"/></kbd>
 
 **If you aim at high-quality professional-level results, you should really try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
-
-### Getting Help
-
-**These templates are provided _as is_ with no support at all.  **
-
-However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
