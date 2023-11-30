@@ -15,6 +15,33 @@
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
 
+
+--------
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date
+    "
+  />
+  <img
+    width="500"
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date"
+  />
+</picture>
+
+**If you opt for using this project, please give it a star by clicking the (⭐️) at the top right of the [project's page](https://github.com/joaomlourenco/novathesis_word).**
+
+--------
+
 ## Welcome to the “NOVAthesis_word” template
 
 These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
