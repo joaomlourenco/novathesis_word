@@ -44,7 +44,7 @@
 
 ## Welcome to the “NOVAthesis_word” template
 
-These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.1, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
+These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.2, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
 There are four similar versions: 
 
