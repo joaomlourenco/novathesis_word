@@ -55,7 +55,7 @@ There are four similar versions:
 
 **These templates are provided _as is_ with no support at all.  **
 
-However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
+However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
 
 
 ### NOVAthesis LaTeX Template
