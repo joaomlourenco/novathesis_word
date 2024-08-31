@@ -10,7 +10,6 @@
 [![GitHub license](https://img.shields.io/badge/License-LaTeX%20v1.3c-green.svg)](https://www.latex-project.org/lppl/lppl-1-3c)
 
 [![GitHub release](https://img.shields.io/github/release/joaomlourenco/novathesis_word.svg)](https://github.com/joaomlourenco/novathesis_word/releases/)
-[![GitHub commits](https://img.shields.io/github/commits-since/joaomlourenco/novathesis_word/2.0.0.svg)](https://github.com/joaomlourenco/novathesis_word/commit/)
 ![![Last commit](https://github.com/joaomlourenco/novathesis_word)](https://img.shields.io/github/last-commit/joaomlourenco/novathesis?color=blue)
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
