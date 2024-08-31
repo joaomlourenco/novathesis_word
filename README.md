@@ -17,23 +17,26 @@
 
 ## Welcome to the “NOVAthesis_word” template
 
-This template attempt to respect the layout of the thesis and dissertations at FCT-NOVA, mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).
+These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.2, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
-There are two similar versions: 
+There are four similar versions: 
 
-* one for monographs written in Portuguese, and 
-* another for monographs written in English.  
+* two for monographs written in Portuguese (MSc and PhD), and 
+* two for monographs written in English (MSc and PhD).
 
-Please note that each version includes the covers (and back covers) for both the Ph.D. and M.Sc. dissertations, and you must delete the ones that do not apply to your document.
+### Getting Help
+
+**These templates are provided _as is_ with no support at all.  **
+
+However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
+
+
+### NOVAthesis LaTeX Template
 
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
 
-<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/phd/cover-nova-fct-phd.svg" border="1" width="100"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/msc/cover-nova-fct-msc.svg" border="1" width="100"/>
 
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-phd-en.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-msc-en.svg" border="1" width="100"/></kbd>
 
-### Support or Contact
-
-These templates are provided _as is_ with no support at all.  However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word_word/discussions) is open and users may interact and help each other there.
-
-You may also join the [NOVAthesis Facebook group](https://www.facebook.com/groups/novathesis) at [https://www.facebook.com/groups/novathesis](https://www.facebook.com/groups/novathesis) and ask for help/support there.  Remember to **make it clear that you are using the Word version of the template**.
+**If you aim at high-quality professional-level results, you should really try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX tempalte](https://joaomlourenco.github.io/novathesis/).**
