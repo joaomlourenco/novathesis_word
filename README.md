@@ -13,7 +13,7 @@
 ![![Last commit](https://github.com/joaomlourenco/novathesis_word)](https://img.shields.io/github/last-commit/joaomlourenco/novathesis?color=blue)
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
-<img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
+<br/><img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
 
 
 --------
