@@ -1,5 +1,9 @@
-<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" width="600"/>
+<meta property="og:image" content="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" />
 
+<div>
+<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.jpg" width="600"/>
+Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
+</div>
 
 [![GitHub forks](https://img.shields.io/github/forks/joaomlourenco/novathesis_word.svg?style=social&label=Fork)](https://github.com/joaomlourenco/novathesis_word)
 [![GitHub stars](https://img.shields.io/github/stars/joaomlourenco/novathesis_word.svg?style=social&label=Star)](https://github.com/joaomlourenco/novathesis_word)
@@ -8,13 +12,10 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/joaomlourenco/novathesis_word/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/badge/License-LaTeX%20v1.3c-green.svg)](https://www.latex-project.org/lppl/lppl-1-3c)
-
 [![GitHub release](https://img.shields.io/github/release/joaomlourenco/novathesis_word.svg)](https://github.com/joaomlourenco/novathesis_word/releases/)
 ![![Last commit](https://github.com/joaomlourenco/novathesis_word)](https://img.shields.io/github/last-commit/joaomlourenco/novathesis?color=blue)
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
-<br/><img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
-
 
 --------
 
