@@ -47,10 +47,13 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
 
 These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.2, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
 
-There are four similar versions: 
+There are four similar versions in each folder (`Windows` and `macOS`):
 
 * two for monographs written in Portuguese (MSc and PhD), and 
 * two for monographs written in English (MSc and PhD).
+
+*The windows versions fix some font issues and were contributed by [Luis Simoes](mailto:lfm.simoes@campus.fct.unl.pt). Thank you!*
+
 
 ### Getting Help
 
