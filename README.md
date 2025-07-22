@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=joaomlourenco&project=novathesis_word&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 <meta property="og:image" content="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" />
 
 <div>
