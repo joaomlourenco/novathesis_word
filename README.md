@@ -55,6 +55,18 @@ There are four similar versions in each folder (`Windows` and `macOS`):
 *The windows versions fix some font issues and were contributed by [Luis Simoes](mailto:lfm.simoes@campus.fct.unl.pt). Thank you!*
 
 
+## Download
+
+Follow these links to download the template files:
+
+| Type | Language   | Link to file |
+|------|------------|--------------|
+| PhD  | English    | [novathesis_word-phd-EN-v1.3.1.docx](../../raw/refs/heads/main/Windows/novathesis_word-phd-EN-v1.3.1.docx) |
+| PhD  | Portuguese | [novathesis_word-phd-PT-v1.3.1.docx](../../raw/refs/heads/main/Windows/novathesis_word-phd-PT-v1.3.1.docx) |
+| MSc  | English    | [novathesis_word-msc-EN-v1.3.1.docx](../../raw/refs/heads/main/Windows/novathesis_word-msc-EN-v1.3.1.docx) |
+| MSc  | Portuguese | [novathesis_word-msc-PT-v1.3.1.docx](../../raw/refs/heads/main/Windows/novathesis_word-msc-PT-v1.3.1.docx) |
+
+
 ### Getting Help
 
 **These templates are provided _as is_ with no support at all.  **
