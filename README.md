@@ -1,7 +1,7 @@
 <meta property="og:image" content="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" />
 
 <div>
-<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.jpg" width="600"/>
+<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.jpg" width="400"/>
 Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
 </div>
 
