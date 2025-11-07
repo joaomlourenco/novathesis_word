@@ -33,7 +33,7 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
     "
   />
   <img
-    width="500"
+    width="400"
     alt="Star History Chart"
     src="https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date"
   />
