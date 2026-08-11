@@ -19,30 +19,6 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
 
 --------
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date
-    "
-  />
-  <img
-    width="400"
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=joaomlourenco/novathesis_word&type=Date"
-  />
-</picture>
-
-**If you opt for using this project, please give it a star by clicking the (⭐️) at the top right of the [project's page](https://github.com/joaomlourenco/novathesis_word).**
-
---------
-
 ## Welcome to the “NOVAthesis_word” template
 
 These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.2, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
@@ -73,11 +49,23 @@ Follow these links to download the template files:
 
 However, the [“Discussions” page](https://github.com/joaomlourenco/novathesis_word/discussions) is open and users may interact and help each other there.  You may also ask for help in the [NOVAthesis Facebook Group](https://www.facebook.com/groups/novathesis), but remember to make it clear in your post that you are using the Word version of the template.
 
+--------
+
+# Please give this repository a ⭐️
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=joaomlourenco/novathesis%2Cjoaomlourenco/novathesis_word&type=date&theme=dark&legend=top-left&sealed_token=KiAdxo7wrX5R__JpXkk-v3LKV14s5YrCRjGkdMCgJEWBV1KxiPXIY8TUMXMx1_AHz8ivYGooM2Wb7tR4M4-EwNfQvMZWccO6fnAv8gA2wk72JCe5i6ewyA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=joaomlourenco/novathesis%2Cjoaomlourenco/novathesis_word&type=date&legend=top-left&sealed_token=KiAdxo7wrX5R__JpXkk-v3LKV14s5YrCRjGkdMCgJEWBV1KxiPXIY8TUMXMx1_AHz8ivYGooM2Wb7tR4M4-EwNfQvMZWccO6fnAv8gA2wk72JCe5i6ewyA" />
+   <img width="450" alt="Star History Chart" src="https://api.star-history.com/chart?repos=joaomlourenco/novathesis%2Cjoaomlourenco/novathesis_word&type=date&legend=top-left&sealed_token=KiAdxo7wrX5R__JpXkk-v3LKV14s5YrCRjGkdMCgJEWBV1KxiPXIY8TUMXMx1_AHz8ivYGooM2Wb7tR4M4-EwNfQvMZWccO6fnAv8gA2wk72JCe5i6ewyA" />
+</picture>
+
+**If you opt for using this project, please give it a star by clicking the (⭐️) at the top right of the [project's page](https://github.com/joaomlourenco/novathesis_word).**
+
 
 ### NOVAthesis LaTeX Template
 
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).**
 
 
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-phd-en.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-msc-en.svg" border="1" width="100"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/JPG/nova-fct-phd-en.jpg" border="1" width="100"/></kbd>&nbsp;&nbsp;
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/JPG/nova-fct-msc-en.jpg" border="1" width="100"/></kbd>
