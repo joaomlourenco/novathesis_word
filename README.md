@@ -67,5 +67,5 @@ However, the [“Discussions” page](https://github.com/joaomlourenco/novathesi
 **If you aim at high-quality professional-level results, you should try [LaTeX](https://www.latex-project.org/) and the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).**
 
 
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/JPG/nova-fct-phd-en.jpg" border="1" width="100"/></kbd>&nbsp;&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/JPG/nova-fct-msc-en.jpg" border="1" width="100"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-phd-en-lua-1.svg" border="1" width="100"/></kbd>&nbsp;&nbsp;
+<kbd><img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/gh-pages/Showcase/Covers/SVG/nova-fct-msc-en-lua-1.svg" border="1" width="100"/></kbd>
