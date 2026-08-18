@@ -1,7 +1,16 @@
-<meta property="og:image" content="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.svg" />
+<meta property="og:image" content="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Schools/other/novathesis/Images/red/insignia-red1.svg" />
 
-<div>
-<img src="https://joaomlourenco.github.io/novathesis_word/novathesis-word-logo-v5.jpg" width="400"/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Schools/other/novathesis/Images/red/insignia-red1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-insignia-outline.svg">
+  <img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-insignia-outline.svg" width="72" alt="novathesis insignia"/>
+</picture>
+<br/>
+<table><tr><td bgcolor="#ffffff">
+<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-text.svg" width="360" alt="novathesis"/>
+</td></tr></table>
+<br/>
 Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
 </div>
 
@@ -21,13 +30,12 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
 
 > ### ⚠️ These Word templates are outdated
 >
-> This project is **unmaintained** (see badge above) and does **not** include a
-> Generative AI disclosure statement — now mandatory at many institutions and
-> publishers. If your school or program requires one, use the
-> [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/) instead,
-> which supports it out of the box (fill in the form at
-> [aidisclose.org](https://aidisclose.org) and paste the generated snippet into
-> `0-Config/7-aidisclose.tex`).
+> This project is **unmaintained** (see badge above). Among other things, it does **not**
+> include a Generative AI disclosure statement — now **mandatory at NOVA FCT**, and at many
+> other institutions and publishers. If your school or program requires one, use the
+> [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/) instead, which
+> supports it out of the box (fill in the form at [aidisclose.org](https://aidisclose.org) and
+> paste the generated snippet into `0-Config/7-aidisclose.tex`).
 
 --------
 
