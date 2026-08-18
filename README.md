@@ -19,6 +19,18 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
 
 --------
 
+> ### ⚠️ These Word templates are outdated
+>
+> This project is **unmaintained** (see badge above) and does **not** include a
+> Generative AI disclosure statement — now mandatory at many institutions and
+> publishers. If your school or program requires one, use the
+> [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/) instead,
+> which supports it out of the box (fill in the form at
+> [aidisclose.org](https://aidisclose.org) and paste the generated snippet into
+> `0-Config/7-aidisclose.tex`).
+
+--------
+
 ## Welcome to the “NOVAthesis_word” template
 
 These template(s) attempt to respect the layout of the the thesis and dissertations at FCT-NOVA (with the new covers introduced in march 2021 and now, in version 1.2, with the new logo introduced in 2024), mimicking the visual produced with the [NOVAthesis LaTeX template](https://joaomlourenco.github.io/novathesis/).  
