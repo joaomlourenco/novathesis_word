@@ -10,9 +10,11 @@
 <table><tr><td bgcolor="#ffffff">
 <img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-text.svg" width="360" alt="novathesis"/>
 </td></tr></table>
-<br/>
-Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
 </div>
+
+<table>
+<tr>
+<td valign="top">
 
 [![GitHub forks](https://img.shields.io/github/forks/joaomlourenco/novathesis_word.svg?style=social&label=Fork)](https://github.com/joaomlourenco/novathesis_word)
 [![GitHub stars](https://img.shields.io/github/stars/joaomlourenco/novathesis_word.svg?style=social&label=Star)](https://github.com/joaomlourenco/novathesis_word)
@@ -25,6 +27,16 @@ Say thanks! ➡️ <img src="https://github.com/user-attachments/assets/8434a462
 ![![Last commit](https://github.com/joaomlourenco/novathesis_word)](https://img.shields.io/github/last-commit/joaomlourenco/novathesis?color=blue)
 
 [![GitHub license](https://img.shields.io/badge/SAY%20THANKS-€5-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=8WA8FRVMB78W8)
+
+</td>
+<td align="center" valign="middle">
+
+Say thanks!<br/>
+<img src="https://github.com/user-attachments/assets/8434a462-3599-4d3c-a2fd-04995db03fe3" width="100"/>
+
+</td>
+</tr>
+</table>
 
 --------
 
