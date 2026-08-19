@@ -7,9 +7,7 @@
   <img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-insignia-outline.svg" width="72" alt="novathesis insignia"/>
 </picture>
 <br/>
-<table><tr><td bgcolor="#ffffff">
-<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-text.svg" width="360" alt="novathesis"/>
-</td></tr></table>
+<img src="https://raw.githubusercontent.com/joaomlourenco/novathesis/main/novathesisFiles/Images/novathesis-text-on-white.svg" width="360" alt="novathesis"/>
 </div>
 
 <table>
